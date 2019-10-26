@@ -33,20 +33,20 @@
         <item>Country: United States</item>
     </string-array>
     <string-array name="cIndustry">
-        <item>Industry: Major Banks</item>
-        <item>Industry: N/A</item>
-        <item>Industry: Major Banks</item>
-        <item>Industry: Regional Banks</item>
-        <item>Industry: Major Banks</item>
+        <item>Industry: Major Bank</item>
+        <item>Industry: Major Bank</item>
+        <item>Industry: Major Bank</item>
+        <item>Industry: Regional Bank</item>
+        <item>Industry: Major Bank</item>
         <item>Industry: Computer Hardware</item>
         <item>Industry: Diversified Insurance</item>
-        <item>Industry: Major Banks</item>
+        <item>Industry: Major Bank</item>
         <item>Industry: Oil and Gas Operations</item>
         <item>Industry: Major Banks</item>
         <item>Industry: Oil and Gas Operations</item>
         <item>Industry: Telecommunications Services</item>
         <item>Industry: Semiconductors</item>
-        <item>Industry: Major Banks</item>
+        <item>Industry: Major Bank</item>
     </string-array>
     <string-array name="cCeo">
         <item>CEO: Shu Gu</item>
