@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Top Companies - Forbes Magazine</string>
+    <string name="app_name">Top Global Companies</string>
     <string-array name="cName">
         <item>ICBC</item>
         <item>JPMorgan Chase</item>
